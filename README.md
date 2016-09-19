@@ -17,9 +17,11 @@ Steps to bootstrap a new windows development machine.
 
 ## Install ConEmu
 [Download](https://www.fosshub.com/ConEmu.html)
+* Set Powershell Execution Policy to 'Unrestricted': ```Set-ExecutionPolicy Unrestricted```
 
-## Set Powershell Execution Policy to 'Unrestricted'
-```Set-ExecutionPolicy Unrestricted```
+* Install [Powerline patched Hack font](https://github.com/powerline/fonts/tree/master/Hack)
+
+* Install [oh-my-posh](https://github.com/JanJoris/oh-my-posh#installation)
 
 ## Install Git
 [Download](https://git-scm.com/)
