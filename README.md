@@ -36,3 +36,6 @@ Steps to bootstrap a new windows development machine.
 [Download](https://github.com/coreybutler/nvm-windows/releases)
 * Install current version of node: ```nvm install latest```
 * Use current verison of node: ```nvm use <INSTALLED VERSION>```
+
+## Install Dropbox
+[Download](https://www.dropbox.com/)
