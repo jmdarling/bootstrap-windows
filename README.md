@@ -37,7 +37,7 @@ Steps to bootstrap a new windows development machine.
 * Install current version of node: ```nvm install latest```
 * Use current verison of node: ```nvm use <INSTALLED VERSION>```
 
-## Install Dropbox
+## Setup Dropbox
 [Download](https://www.dropbox.com/)
 
 ## Setup 1Password
