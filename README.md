@@ -39,3 +39,6 @@ Steps to bootstrap a new windows development machine.
 
 ## Install Dropbox
 [Download](https://www.dropbox.com/)
+
+## Setup 1Password
+[Download](https://1password.com/)
