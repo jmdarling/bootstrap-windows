@@ -25,3 +25,9 @@ Steps to bootstrap a new windows development machine.
 
 ## Setup Git
 [Download](https://git-scm.com/)
+
+## Setup VS Code
+[Download](https://www.visualstudio.com/en-us/products/code-vs.aspx)
+* Install [Standard Linter](https://marketplace.visualstudio.com/items?itemName=shinnn.standard)
+* Install [ES6 Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=dzannotti.vscode-babel-coloring)
+* Install [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
