@@ -31,3 +31,8 @@ Steps to bootstrap a new windows development machine.
 * Install [Standard Linter](https://marketplace.visualstudio.com/items?itemName=shinnn.standard)
 * Install [ES6 Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=dzannotti.vscode-babel-coloring)
 * Install [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
+
+## Setup Node (nvm-windows)
+[Download](https://github.com/coreybutler/nvm-windows/releases)
+* Install current version of node: ```nvm install latest```
+* Use current verison of node: ```nvm use <INSTALLED VERSION>```
